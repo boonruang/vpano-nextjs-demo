@@ -1,0 +1,32 @@
+installation
+node
+vscode
+npx create-next-app
+yarn dev
+
+configuration
+vscode-extension
+vscode-icons
+React (ES7+ React/Redux/React-Native snippets)
+html to jsx
+Prettier - Code formatter
+stylePros React Native Snippet
+
+
+google chrome extension
+wappalyzer
+
+
+tools
+html formatter
+
+
+
+snippet
+rfc   react funcational component
+rcc   react class component
+
+yarn add swr
+yarn add axios
+
+yarn add cross-env
